@@ -34,4 +34,4 @@ A sequential neural network model is built with:
 ### 4. **Evaluation**
 - Metrics like accuracy and loss.
 
-[Kaggle Notebook]([https://www.kaggle.com/](https://www.kaggle.com/code/hamoi9/imdb-movie-reviews)) 
+[Kaggle Notebook](https://www.kaggle.com/code/hamoi9/imdb-movie-reviews)
